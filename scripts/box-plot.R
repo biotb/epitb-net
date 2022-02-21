@@ -1,3 +1,5 @@
+# Create box plot of MI scores.
+
 library(ggplot2)
 
 input_full_filepath <- "spydrpick.outliers"
