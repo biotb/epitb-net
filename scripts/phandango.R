@@ -1,5 +1,6 @@
 # Create table with annotations for phandango plot with allele distribution.
 #!/usr/bin/env Rscript
+
 args = commandArgs(trailingOnly=TRUE)
 
 # Run: Rscript phandango.R outliers.csv glgB
