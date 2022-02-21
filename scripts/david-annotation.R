@@ -1,5 +1,6 @@
-# Read input data
+# Gene annotation with DAVID GOs.
 
+# Read input data
 df_input <- read.csv("outliers_interactions.csv", header = TRUE, sep = ',')
 df_outliers <- df_input[df_input$Gene_1_ENTREZid != "Not found in GFF" & df_input$Gene_2_ENTREZid != "Not found in GFF", ]
 
