@@ -1,5 +1,6 @@
-# Read outliers with GO annotations
+# Create circular plots with GO annotations.
 
+# Read outliers with GO annotations
 df_outliers <- read.csv("outliers-gos.csv", header = TRUE, sep = ',')
 
 ## Scaled mi between 0 and 1
