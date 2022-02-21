@@ -1,7 +1,6 @@
+# Create table with annotations for phandango plot with allele distribution.
 #!/usr/bin/env Rscript
 args = commandArgs(trailingOnly=TRUE)
-
-# Create table with annotations for phandango plot with allele distribution.
 
 # Run: Rscript phandango.R outliers.csv glgB
 # test if there is at least one argument: if not, return an error
