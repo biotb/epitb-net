@@ -1,4 +1,4 @@
-# Gene ENTREZ id annotation with GFF file
+# Gene annotation with ENTREZ id using GFF file.
 
 path = "/home/"
 
