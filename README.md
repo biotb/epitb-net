@@ -16,7 +16,7 @@
 
 ## Citation
 ### Article
-Posada-Reyes, A. B., Balderas-Martínez, Y. I., Ávila-Ríos, S., Vinuesa, P., & Fonseca-Coronado, S. (2022). An epistatic network describes oppA and glgB as relevant genes for Mycobacterium tuberculosis. *Frontiers in Molecular Biosciences*, 9.
+Posada-Reyes, A. B., Balderas-Martínez, Y. I., Ávila-Ríos, S., Vinuesa, P., & Fonseca-Coronado, S. (2022). An epistatic network describes oppA and glgB as relevant genes for Mycobacterium tuberculosis. *Frontiers in Molecular Biosciences*, 9. doi:10.3389/fmolb.2022.856212.
 - Bibtex
 ```
 @ARTICLE{10.3389/fmolb.2022.856212,
