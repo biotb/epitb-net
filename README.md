@@ -15,6 +15,23 @@
 - [snp-sites-outliers.R](https://github.com/biotb/epitb-net/blob/master/scripts/snp-sites-outliers.R): Compare positions from outliers to SNP-sites.
 
 ## Citation
+### Article
+Posada-Reyes, A. B., Balderas-Martínez, Y. I., Ávila-Ríos, S., Vinuesa, P., & Fonseca-Coronado, S. (2022). An epistatic network describes oppA and glgB as relevant genes for Mycobacterium tuberculosis. *Frontiers in Molecular Biosciences*, 9.
+- Bibtex
+```
+@ARTICLE{10.3389/fmolb.2022.856212,
+AUTHOR={Posada-Reyes, Ali-Berenice and Balderas-Martínez, Yalbi I. and Ávila-Ríos, Santiago and Vinuesa, Pablo and Fonseca-Coronado, Salvador},   
+TITLE={An Epistatic Network Describes oppA and glgB as Relevant Genes for Mycobacterium tuberculosis},      
+JOURNAL={Frontiers in Molecular Biosciences},      
+VOLUME={9},           
+YEAR={2022},      
+URL={https://www.frontiersin.org/articles/10.3389/fmolb.2022.856212},       
+DOI={10.3389/fmolb.2022.856212},      
+ISSN={2296-889X},   
+ABSTRACT={Mycobacterium tuberculosis is an acid-fast bacterium that causes tuberculosis worldwide. The role of epistatic interactions among different loci of the M. tuberculosis genome under selective pressure may be crucial for understanding the disease and the molecular basis of antibiotic resistance acquisition. Here, we analyzed polymorphic loci interactions by applying a model-free method for epistasis detection, SpydrPick, on a pan–genome-wide alignment created from a set of 254 complete reference genomes. By means of the analysis of an epistatic network created with the detected epistatic interactions, we found that glgB (α-1,4-glucan branching enzyme) and oppA (oligopeptide-binding protein) are putative targets of co-selection in M. tuberculosis as they were associated in the network with M. tuberculosis genes related to virulence, pathogenesis, transport system modulators of the immune response, and antibiotic resistance. In addition, our work unveiled potential pharmacological applications for genotypic antibiotic resistance inherent to the mutations of glgB and oppA as they epistatically interact with fprA and embC, two genes recently included as antibiotic-resistant genes in the catalog of the World Health Organization. Our findings showed that this approach allows the identification of relevant epistatic interactions that may lead to a better understanding of M. tuberculosis by deciphering the complex interactions of molecules involved in its metabolism, virulence, and pathogenesis and that may be applied to different bacterial populations.}
+}
+```
+### Git citation
 Please cite:
 - APA
 
